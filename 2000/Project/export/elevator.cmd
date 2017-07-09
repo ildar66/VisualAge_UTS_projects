@@ -1,0 +1,1 @@
+c:\jdk1.1.8\bin\java -classpath c:\jdk1.1.8\lib\classes.zip;C:\SQLLIB\java\db2java.zip;exportElevator.jar ru.tsrz.elevator.correctTab.Correct

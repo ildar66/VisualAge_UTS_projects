@@ -1,0 +1,1 @@
+c:\jdk1.1.8\bin\java -classpath c:\jdk1.1.8\lib\classes.zip;c:\SQLLIB\java\db2java.zip;export.jar uts.agro.agreement.Agro
